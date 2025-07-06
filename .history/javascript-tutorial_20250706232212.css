@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+
+}
+.cart-class{
+    margin-bottom: 50px;
+}
+.cart-class button{
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-radius: 50px;
+
+}
+.cart-class button:not(.sub-button){
+    background-color: rgb(225, 213, 213);
+   
+}
+.sub-button{
+    background-color: rgb(221, 221, 48);
+}
+.sub-button-two{
+    background-color: rgb(225, 213, 213);
+}
+p{
+    color: white;
+}
+
+/* game-section  */
+
+.game-play button{
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-radius: 50px;
+}
+.game-play button:not(.reset){
+    background-color: transparent;
+}
+.reset{
+    background-color: rgb(221, 221, 48);
+}
+.game-play:not(.reset) img{
+    height: 150px;
+    width: 150px;
+    border: 1px solid white;
+    border-radius: 50%;
+    
+}
+.move-paragraph{
+
+}

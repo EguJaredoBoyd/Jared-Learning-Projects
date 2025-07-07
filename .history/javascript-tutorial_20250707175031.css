@@ -69,16 +69,10 @@ section p{
 /* Amazon Calculator App */
 .amazon-calculator input{
     padding: 20px;
-    border: none;
-    border-radius: 10px;
 
 }
 .amazon-calculator .calculator{
-    padding: 17.5px;
+    padding: 20px;
     background-color: green;
     font-size: large;
-    font-weight: bold;
-    color: white;
-    border: none;
-    border-radius: 10px;
 }

@@ -69,8 +69,6 @@ section p{
 /* Amazon Calculator App */
 .amazon-calculator input{
     padding: 20px;
-    border: none;
-    border-radius: 10px;
 
 }
 .amazon-calculator .calculator{
